@@ -1,0 +1,7 @@
+# robots.txt — Prima Kaca & Alumunium
+# Mengizinkan semua crawler mengakses seluruh halaman,
+# dan menunjukkan lokasi sitemap.xml ke Google.
+User-agent: *
+Allow: /
+
+Sitemap: https://primakacaalumunium.id/sitemap.xml
