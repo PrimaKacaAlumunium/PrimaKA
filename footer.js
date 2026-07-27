@@ -57,7 +57,7 @@ window.__FOOTER_HTML__ = `
     </div>
     <div class="footer-legal">
       <span id="footer-year-text">© 2026 Prima Kaca &amp; Alumunium. Seluruh hak cipta dilindungi.</span>
-      <span>Family owned business sejak 2018</span>
+      <span>Family owned business sejak 2016</span>
     </div>
   </div>
 </footer>
